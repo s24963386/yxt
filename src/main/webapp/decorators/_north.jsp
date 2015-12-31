@@ -7,7 +7,7 @@
 		<span style="color:#ddd">欢迎你，${rbac.currentUser.name }</span>
 		<a href="<c:url value='/home/logout'/>" style="color:#fff">退出</a>
 	</div>
-	<div class="toptitle">仓库管理系统</div>
+	<div class="toptitle">后台录入系统</div>
 </div>
 <div class="topmenu">
 	<a href="#" class="easyui-linkbutton" plain="true">首页</a>

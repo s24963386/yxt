@@ -44,7 +44,7 @@
 		<!-- 导出文件的临时存放文件夹 -->
 		<item name="export.dir.tmp" value="c:/temp/"/>
 		
-		<item name="dao-scan-package" value="sumscope.yxt.dao"/>
+		<item name="dao-scan-package" value="com.yxt.dao"/>
 	</global>
 	<caches>
 		<cache name="testCache" cache2disk="false" idletime="30" max-num="1000" livetime="60" policy="LRU"/>

@@ -21,7 +21,7 @@
 			<div class="toptitle">后台录入系统</div>
 		</div>
 		<div style="padding:60px 0;">
-			<form action="<c:url value='/home/login'/>" method="post">
+			<form action="<c:url value='/yxt/home/login.jhtml'/>" method="post">
 				<div style="padding-left:150px">
 					<table cellpadding="0" cellspacing="3">
 						<tr>
