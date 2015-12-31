@@ -9,7 +9,7 @@
 	<name>JSPTagEx Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<properties>
-		<jsptagex.version>1.2.6</jsptagex.version>
+		<jsptagex.version>1.2.6.3</jsptagex.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
 	<dependencies>
