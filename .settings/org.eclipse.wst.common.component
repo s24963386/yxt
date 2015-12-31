@@ -7,12 +7,6 @@
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/datasets"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/test/java"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/xsd"/>
-        <dependent-module archiveName="jsptagex-1.2.6.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/jsptagex/jsptagex">
-            <dependency-type>uses</dependency-type>
-        </dependent-module>
-        <dependent-module archiveName="plugin-api-1.0.0.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/plugin-api/plugin-api">
-            <dependency-type>uses</dependency-type>
-        </dependent-module>
         <property name="java-output-path" value="/JSPTagExWeb/target/classes"/>
         <property name="context-root" value="/yxt"/>
     </wb-module>
