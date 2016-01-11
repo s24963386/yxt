@@ -106,7 +106,7 @@
 		</div>
 		<div region="center" border="false">
 			<table id="t-users" class="easyui-datagrid"
-					url="<c:url value='/system/user/getItems'/>"
+					url="<c:url value='/user/list.jhtml'/>"
 					singleSelect="true" rownumbers="true"
 					border="false" fit="true">
 				<thead>

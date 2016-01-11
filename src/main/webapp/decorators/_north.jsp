@@ -32,7 +32,7 @@
 	<div href="<c:url value="/data/intercourse/index"/>">往来单位</div>
 </div>
 <div id="menu-system" class="easyui-menu" style="width:150px">
-	<div href="<c:url value='/system/user/index'/>">用户管理</div>
+	<div href="<c:url value='/views/system/user/index.jsp'/>">用户管理</div>
 	<div href="<c:url value='/system/role/index'/>">角色管理</div>
 	<div href="<c:url value='/system/privilege/index'/>">权限管理</div>
 	<div href="<c:url value='/system/department/index'/>">组织机构</div>
