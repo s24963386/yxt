@@ -42,7 +42,7 @@
 		<item name="websocket.client.port" value="3333"/>																				<!-- WebSocket Server侦听的端口，内部Java之间通信走的是3333端口，固定 -->
 		
 		<!-- 导出文件的临时存放文件夹 -->
-		<item name="export.dir.tmp" value="c:/temp/"/>
+		<item name="export.dir.tmp" value="c:/temp1/"/>
 		
 		<item name="dao-scan-package" value="com.yxt.dao"/>
 	</global>
